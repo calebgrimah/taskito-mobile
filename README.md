@@ -1,7 +1,8 @@
 # taskito_mobile
 
 An android/ iOS application that allows users create tasks they want accomplished., using the taskito server
-application.![](rec.gif)
+application.
+![](rec.gif)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
