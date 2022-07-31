@@ -1,7 +1,7 @@
 # taskito_mobile
 
 An android/ iOS application that allows users create tasks they want accomplished., using the taskito server
-application.
+application. [WIP]
 ![](rec.gif)
 ## Getting Started
 
